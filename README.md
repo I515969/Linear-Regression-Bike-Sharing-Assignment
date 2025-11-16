@@ -1,19 +1,19 @@
 # Project Name
 Boom bikes Demand Analysis using Linear Regression
 
-**Table of Contents**
+## Table of Contents
 - General Information
 - Conclusions
 - Technologies Used
 - Acknowledgements
 
-**General Information**
+## General Information
 
 Boom bike a popular bike sharing company is going under dip in their business during covid times and now it wants to understand the parameters that can be used predict the demand so that company can focus on the business once the Pandemic end.
 
 This project analyzed the data shared by the boom bike and the conclussion is shared in the next section.
 
-**Conclusions**
+## Conclusions
 - From Data it is very clear that the business is increased significantly from 2018 to 2019 which indicates there is a great demand for the boom bike.
 - Parameters like temperature, season, weathersituation, monthly and yearly data analzyed
 - Multiple linear regression algorithm is applied and following inference were derived:
@@ -24,19 +24,19 @@ This project analyzed the data shared by the boom bike and the conclussion is sh
     - Variables like:Temperature, season, and weather condition are highly relevant and plays major role in the business.
     - Multicollinearity was successfully addressed, with all VIF values below 5 in the final model, ensuring reliable coefficient estimates.
   
-**Technologies Used**
-- Python
-- Numpy
-- Stats models
-- Sklearn
-- Matplotlib
-- Pandas
-- Seaborn
+## Technologies Used
+- Python (v3.12.12)
+- Numpy (v2.0.2)
+- Stats models (v0.14.5)
+- Sklearn (v1.6.1)
+- Matplotlib (v3.10.0)
+- Pandas (v2.2.2)
+- Seaborn (v0.13.2)
 
-**Acknowledgements**
+## Acknowledgements
 
 This project is done as part of linear regression assignment from AI and ML course from IIITB via Upgrad.
 
-**Contact**
+## Contact
 
 Created by [pritam.saha@sap.com] - feel free to contact me!
